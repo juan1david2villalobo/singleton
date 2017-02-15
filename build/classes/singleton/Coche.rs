@@ -1,0 +1,2 @@
+singleton.PoolCajeros
+Singleton.Coche
